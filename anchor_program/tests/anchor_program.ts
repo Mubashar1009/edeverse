@@ -1,5 +1,5 @@
 import * as anchor from "@coral-xyz/anchor";
-import { describe } from "mocha";
+import { describe, it } from "mocha";
 
 describe("anchor_program", () => {
   // Configure the client to use the local cluster.
