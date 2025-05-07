@@ -7,11 +7,5 @@
     "target": "es6",
     "esModuleInterop": true
   },
-  
-    "include": [
-  
-      "target/types"
-    ]
-  
-  
+  "include": ["target/types/anchor_program.d.ts"]
 }
