@@ -1,2 +1,2 @@
-declare module '@coral-xyz/anchor/dist/cjs/provider';
+declare module '@coral-xyz/anchor';
 
