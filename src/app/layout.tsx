@@ -1,3 +1,4 @@
+import '@babel/polyfill';
 import type { Metadata } from "next";
 import "./globals.css";
 import { AppProviders } from "@/components/app-providers";
